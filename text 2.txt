@@ -2,3 +2,5 @@ this is text 2
 
 change is made.
 
+check before commit
+
